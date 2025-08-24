@@ -6,6 +6,6 @@ Data Analyst in progress | pursuing my M.S. in Data Science | Background in Busi
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thatipalacios@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thatipalacios@gmail.com)
 
 ---
