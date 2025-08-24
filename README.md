@@ -4,5 +4,5 @@ Data Analyst in progress | pursuing my M.S. in Data Science | Background in Busi
 
 🔹 I’m passionate about turning raw data into meaningful insights.  
 
-## Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=thatipalacios@gmail.com)
+##  Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryi-tatiana-palacios-giraldo-845160280/)
