@@ -1,6 +1,8 @@
-## Hi there, my name is Maryi
+# 👩🏻‍💻 Maryi Palacios  
 
-<!--
-**MPalacios-Analytics/MPalacios-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst in progress | Master's in Data Science | Background in Business Administration  
 
-## I am currently pursuing a Master’s in Data Science.
+I’m passionate about turning raw data into meaningful insights.  
+Currently pursuing my M.S. in Data Science at Regis University  
+
+---
